@@ -1,4 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap');
+
+:root {
+  --primary-color: #ff4b2b;
+  --primary-gradient: linear-gradient(135deg, #ff416c 0%, #ff4b2b 100%);
+  --box-shadow: 0 8px 24px rgba(255, 75, 43, 0.15);
+  --border-radius: 12px;
+}
 
 *{
   padding: 0;
@@ -25,4 +33,17 @@ a{
   100%{
     opacity: 1;
   }
+}
+
+.logo-text {
+  font-family: 'Inter', sans-serif;
+  font-weight: 800;
+  font-size: 28px;
+  background: var(--primary-gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+  letter-spacing: -0.5px;
 }

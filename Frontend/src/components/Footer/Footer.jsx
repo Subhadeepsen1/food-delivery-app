@@ -7,7 +7,7 @@ const Footer = () => {
     <div className='footer' id='footer'>  
         <div className="footer-content">  
             <div className="footer-content-left">  
-                <img src={assets.logo} alt="" />  
+                <h1 className="logo-text">Hunger Fire Extinguisher</h1>  
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio corporis quia quam laborum fuga error ipsa eveniet ipsum dolore ratione hic accusantium obcaecati quaerat culpa totam quibusdam, aliquid voluptatem cupiditate.</p>
                 <div className="footer-social-icons">
                     <img src={assets.facebook_icon} alt="" />
@@ -28,12 +28,12 @@ const Footer = () => {
             <h2> GET IN TOUCH</h2>
             <ul>
                 <li>+91-1234-5678</li>
-                <li>contact@tomato.com</li>
+                <li>contact@hungerfireextinguisher.com</li>
             </ul>
             </div>  
         </div>  
         <hr/>
-        <p className="footer-copyright">Copyright 2024  © Tomato.com - All Right Reserved.</p>
+        <p className="footer-copyright">Copyright 2024  © HungerFireExtinguisher.com - All Right Reserved.</p>
     </div>  
    
   )
