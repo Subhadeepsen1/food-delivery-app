@@ -1,6 +1,6 @@
-# Tomato: Online Food Ordering Application
+# Hunger Fire Extinguisher: Online Food Ordering Application
 
-Tomato is a full-stack web application designed for online food ordering, leveraging the MERN stack to provide a seamless and intuitive user experience. The platform includes comprehensive features for both users and administrators, ensuring efficient food ordering and management processes.
+Hunger Fire Extinguisher is a full-stack web application featuring a modern gradient UI aesthetic, designed for online food ordering, leveraging the MERN stack to provide a seamless and intuitive user experience. The platform includes comprehensive features for both users and administrators, ensuring efficient food ordering and management processes.
 
 
 ## Live Website Links
@@ -55,4 +55,4 @@ Express complements Node.js by providing a minimalist web framework for building
 
 ---
 
-We welcome all contributions and look forward to working together to improve Tomato!
+We welcome all contributions and look forward to working together to improve Hunger Fire Extinguisher!
