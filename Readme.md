@@ -5,8 +5,9 @@ Hunger Fire Extinguisher is a full-stack web application featuring a modern grad
 
 ## Live Website Links
 
-- **Admin Interface**: [https://food-delivery-app-f9h5-a8gp4bo1g-balaji91221s-projects.vercel.app/](https://food-delivery-app-f9h5-a8gp4bo1g-balaji91221s-projects.vercel.app/)
-- **Frontend**: [https://food-delivery-app-coral-six.vercel.app/](https://food-delivery-app-coral-six.vercel.app/)
+- **Frontend**: [https://food-delivery-app-eta-liart.vercel.app/](https://food-delivery-app-eta-liart.vercel.app/)
+- **Admin Interface**: [https://food-delivery-app-1ijs.vercel.app/](https://food-delivery-app-1ijs.vercel.app/)
+- **Backend API**: [https://food-delivery-app-backend-aqwm.onrender.com](https://food-delivery-app-backend-aqwm.onrender.com)
 
 
 ## Features of the Project
